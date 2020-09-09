@@ -14,7 +14,7 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_margin="10dp"
-            android:text="Signup"
+            android:text="Signuphere"
             android:textColor="#000"
             android:gravity="center"
             android:textSize="20sp"
