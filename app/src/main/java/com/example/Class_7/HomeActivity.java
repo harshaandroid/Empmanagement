@@ -28,7 +28,7 @@ public class HomeActivity extends AppCompatActivity {
     Dialog dialog;
     String EMPID,EMPNAME,EMPDESG,EMPEMAIL,EMPCONTACTNO,EMPADDRS,EMPLOCATION,EMPDEPT;
     String [] DEPARTMENTS={"WEB DEVELOPMENT","ANDROID DEVELOPMENT","SERVER TEAM","ACCOUNTS TEAM","HR DEPT","HOUSE KEEPING"};
-    //changed here by chandrika
+    //changed here by chandrika prasanth kumar
     TextView tvabtcmpny;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
